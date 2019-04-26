@@ -4,7 +4,8 @@ See [reference/enclosures.png](reference/enclosures.png) for reference.
 
 * The width of each of the three boxes has to be 350 pixels (including all 
 borders).
-* You can find the exact values of colors by using an image editor program.
+* You can find the exact values of colors by using an image editor program
+  ([for example](https://html-color-codes.info/colors-from-image/)).
 * The width of the redish border must be 1 pixel.
 * The width of the bluish and yellowish borders must be 10 pixels (they, however, 
 do not have to literally be borders of any HTML container).
