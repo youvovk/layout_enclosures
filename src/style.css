@@ -7,25 +7,22 @@ p {
   margin: 0;
 }
 
-.box__first,
-.box__second,
-.box__third {
+.box {
+  padding: 10px;
+  box-sizing: border-box;
   border: 1px solid #e75551;
 }
 
-.box__first {
-  width: 328px;
-  padding: 10px;
+.box__color--first {
+  width: 350px;
   margin-bottom: 40px;
   background-color: #2c8ec2;
 }
 
-.box__second {
-  padding: 10px;
+.box__color--second {
   background-color: #ffa600;
 }
 
-.box__third {
-  padding: 10px;
+.box__color--third {
   background-color: #dedede;
 }
